@@ -1,0 +1,8 @@
+[build]
+publish = "searching_app"        # yahan wo folder jahan tumhara index.html hai
+functions = "netlify/functions"  # relative path
+
+[functions]
+directory = "netlify/functions"  # functions ka folder
+
+[functions."*"]

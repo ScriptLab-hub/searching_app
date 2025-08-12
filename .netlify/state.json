@@ -1,0 +1,21 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Karachi",
+			"country": {
+				"code": "PK",
+				"name": "Pakistan"
+			},
+			"subdivision": {
+				"code": "SD",
+				"name": "Sindh"
+			},
+			"timezone": "Asia/Karachi",
+			"latitude": 24.8591,
+			"longitude": 66.9983,
+			"postalCode": "74600"
+		},
+		"timestamp": 1754904622871
+	},
+	"siteId": "76893912-54c9-4630-8ecd-dfb259ae46f2"
+}

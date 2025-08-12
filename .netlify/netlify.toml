@@ -1,8 +1,28 @@
+functionsDirectory = "C:\\Users\\almadina\\Desktop\\saylani_assignments\\searching_app\\netlify\\functions"
+functionsDirectoryOrigin = "config"
+plugins = []
+headers = []
+redirects = []
+
 [build]
-publish = "searching_app"        # yahan wo folder jahan tumhara index.html hai
-functions = "netlify/functions"  # relative path
+publish = "C:\\Users\\almadina\\Desktop\\saylani_assignments\\searching_app"
+publishOrigin = "config"
+functions = "C:\\Users\\almadina\\Desktop\\saylani_assignments\\searching_app\\netlify\\functions"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
 
 [functions]
-directory = "netlify/functions"  # functions ka folder
 
 [functions."*"]
